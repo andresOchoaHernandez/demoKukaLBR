@@ -1,2 +1,2 @@
-# demoKukaLBR
-A demo for ICE lab using iiwa_stack
+# demoOPCUA
+demo ICE lab for kuka lbr iiwa 14 r820 using iiwa_stack

@@ -1,0 +1,11 @@
+float64 pick_areaID
+float64 pick_areaX
+float64 pick_areaY
+
+float64 place_areaID
+float64 place_areaX
+float64 place_areaY
+
+---
+
+bool success
